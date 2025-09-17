@@ -87,7 +87,7 @@ main {
 }
 
 .banner-item {
-	background-image: url('./images/banners/banner_image.png');
+	background-image: url('../images/banners/banner_image.png');
 	background-color: #fff1b8;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -217,7 +217,7 @@ main {
 	gap: 25px;
 }
 
-.products-card__description-info--raiting {
+.products-card__description-info--rating {
 	font-weight: 700;
 	font-size: 18px;
 	line-height: 178%;
